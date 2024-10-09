@@ -254,5 +254,6 @@
     "xlocnum": "cpp",
     "xloctime": "cpp",
     "xstring": "cpp"
-  }
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.24.3"
 }
